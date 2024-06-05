@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **gkmohith17@gmail.com**
 
-- ⚡ Fun fact **I think travelling is investment in happiness. Hence Money can buy tickets to happiness.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

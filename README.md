@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohith G K</h1>
 <h3 align="center">A passionate frontend developer and a Machine Learning Enthusiast. Keen to learn new things each day.</h3>
 
-- 🔭 I’m currently working on [a React Project](https://github.com/gkmohith17/To-Do-List)
+- 🔭 I’m currently working on [a React Project](https://gkmohith17.github.io/Complaint-Box/)
 
 - 🌱 I’m currently learning **TypeScript, and doing a Course on DeepLearning**
 

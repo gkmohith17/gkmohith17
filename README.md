@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohith G K</h1>
 <h3 align="center">A passionate frontend developer and a Machine Learning Enthusiast. Keen to learn new things each day.</h3>
 
-- 🔭 I’m currently working on [a React Project](https://github.com/gkmohith17/Complaint-Managment-Website/)
+- 🔭 I’m currently working on [a React Project](https://github.com/gkmohith17/AI-generated-VideoPhoto-Content)
 
-- 🌱 I’m currently learning **TypeScript, and doing a Course on DeepLearning**
+- 🌱 I’m currently learning **LLMs, AI, and doing various projects on DeepLearning**
 
 - 👨‍💻 All of my projects are available at [https://gkmohith17.github.io/Port-Folio/](https://gkmohith17.github.io/Port-Folio/)
 
